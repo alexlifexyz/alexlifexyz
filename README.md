@@ -1,6 +1,7 @@
-### Alex He
+### Alex
 
-Java 后端工程师，做 AI 应用落地（RAG / Agent），一个人带 AI 做出海站和小工具
+后端出身，现在代码基本交给 AI 写，我负责派活和验收
+一个人做了几个出海站和网页小游戏，正在等第一笔 AdSense 收入
 
 [alexai.top](https://alexai.top) · [Blog](https://blog.alexai.top) · [Email](mailto:alexlifexyz@gmail.com)
 
