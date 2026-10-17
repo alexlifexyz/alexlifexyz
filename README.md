@@ -1,6 +1,6 @@
 ### Alex He
 
-Java 后端工程师，做 AI 应用落地（RAG / Agent）。
+Java 后端工程师，做 AI 应用落地（RAG / Agent），一个人带 AI 做出海站和小工具
 
 [alexai.top](https://alexai.top) · [Blog](https://blog.alexai.top) · [Email](mailto:alexlifexyz@gmail.com)
 
